@@ -1,0 +1,9 @@
+[
+    {"input": "What is AI?", "output": "AI stands for Artificial Intelligence."},
+    {"input": "What is ML?", "output": "ML stands for Machine Learning."},
+    {"input": "What is the purpose of AI?", "output": "The purpose of AI is to mimic human intelligence."},
+    {"input": "How does ML work?", "output": "ML works by training models on data to make predictions."},
+    {"input": "What is deep learning?", "output": "Deep learning is a subset of ML using neural networks."},
+    {"input": "Explain supervised learning.", "output": "Supervised learning is a type of ML where the model is trained on labeled data."},
+    {"input": "What is reinforcement learning?", "output": "Reinforcement learning is a type of ML that focuses on learning by trial and error using rewards and punishments."}
+]
